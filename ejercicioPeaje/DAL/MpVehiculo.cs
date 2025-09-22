@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace DAL
 {
-    internal class MpVehiculo
+    public class MpVehiculo
     {
+        Acceso acc = new Acceso();
+
+
     }
 }
