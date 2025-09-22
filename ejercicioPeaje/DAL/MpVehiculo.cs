@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GUI
+namespace DAL
 {
-    public class Class1
+    internal class MpVehiculo
     {
     }
 }

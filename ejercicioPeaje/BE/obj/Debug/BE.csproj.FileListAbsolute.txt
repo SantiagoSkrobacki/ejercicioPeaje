@@ -1,0 +1,6 @@
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BE\bin\Debug\BE.dll
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BE\bin\Debug\BE.pdb
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BE\obj\Debug\BE.dll
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BE\obj\Debug\BE.pdb

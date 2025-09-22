@@ -1,0 +1,11 @@
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BLL\bin\Debug\BLL.dll
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BLL\bin\Debug\BLL.pdb
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BLL\bin\Debug\BE.dll
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BLL\bin\Debug\DAL.dll
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BLL\bin\Debug\BE.pdb
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BLL\bin\Debug\DAL.pdb
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BLL\obj\Debug\BLL.dll
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BLL\obj\Debug\BLL.pdb

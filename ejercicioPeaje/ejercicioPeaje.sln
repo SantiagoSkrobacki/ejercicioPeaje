@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicioPeaje", "ejercicioPeaje\ejercicioPeaje.csproj", "{6E6E605D-9C08-491F-A950-C5B900E93163}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5CC05FC1-ABCA-42EE-BE15-43D231D3ABF3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{0B2BB12B-D036-4803-91DD-E2B0014189C2}"
@@ -19,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6E6E605D-9C08-491F-A950-C5B900E93163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6E6E605D-9C08-491F-A950-C5B900E93163}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6E6E605D-9C08-491F-A950-C5B900E93163}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6E6E605D-9C08-491F-A950-C5B900E93163}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5CC05FC1-ABCA-42EE-BE15-43D231D3ABF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5CC05FC1-ABCA-42EE-BE15-43D231D3ABF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CC05FC1-ABCA-42EE-BE15-43D231D3ABF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
