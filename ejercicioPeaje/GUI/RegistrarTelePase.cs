@@ -17,14 +17,30 @@ namespace GUI
             InitializeComponent();
         }
 
+        BE.TelePase telepase;
+        BLL.TelePase bllTelepase;
+        BLL.Vehiculo bllVehiculo;
         private void registrarTelePase_Load(object sender, EventArgs e)
         {
-            
+            bllVehiculo = new BLL.Vehiculo();
+            bllTelepase = new BLL.TelePase();
+            patenteComboBox.DataSource = bllVehiculo.ObtenerListaPatentes(); 
         }
 
         private void label1_Click(object sender, EventArgs e)
         {
 
+        }
+
+     
+        private void button1_Click(object sender, EventArgs e)
+        {
+            telepase = new BE.TelePase();
+            telepase.ID = bllTelepase.ObtenerNuevoId();
+            telepase.Fecha = DateTime.Now;
+            telepase.Hora = DateTime.Now;
+            telepase.Vehiculo.Patente=patenteComboBox.Text;
+            
         }
     }
 }

@@ -8,11 +8,11 @@ namespace BE
 {
     public class Vehiculo
     {
-		private int id;
-		public int ID
+		private string patente;
+		public string Patente
 		{
-			get { return id; }
-			set { id = value; }
+			get { return patente; }
+			set { patente = value; }
 		}
 
 		private string marca;

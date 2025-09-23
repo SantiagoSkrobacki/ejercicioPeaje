@@ -30,3 +30,5 @@ C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\GUI\obj\Debug\G
 C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\GUI\obj\Debug\GUI.csproj.Up2Date
 C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\GUI\obj\Debug\GUI.exe
 C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\GUI\obj\Debug\GUI.pdb
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\GUI\bin\Debug\DAL.dll
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\GUI\bin\Debug\DAL.pdb

@@ -7,3 +7,12 @@ E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\DAL\obj\Debug\DAL.csproj.CoreCompileIn
 E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\DAL\obj\Debug\DAL.csproj.Up2Date
 E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\DAL\obj\Debug\DAL.dll
 E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\DAL\obj\Debug\DAL.pdb
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\DAL\bin\Debug\DAL.dll
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\DAL\bin\Debug\DAL.pdb
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\DAL\bin\Debug\BE.dll
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\DAL\bin\Debug\BE.pdb
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\DAL\obj\Debug\DAL.dll
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\DAL\obj\Debug\DAL.pdb

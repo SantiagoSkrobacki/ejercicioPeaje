@@ -4,3 +4,9 @@ E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BE\obj\Debug\BE.csproj.AssemblyReferen
 E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BE\obj\Debug\BE.dll
 E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\BE\obj\Debug\BE.pdb
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\BE\bin\Debug\BE.dll
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\BE\bin\Debug\BE.pdb
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\BE\obj\Debug\BE.dll
+C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\BE\obj\Debug\BE.pdb
