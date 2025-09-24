@@ -36,7 +36,10 @@ namespace BE
 			set { tipovehiculo = value; }
 		}
 
-
+		public Vehiculo()
+		{
+			TipoVehiculo = new TipoVehiculo();
+		}
 
 	}
 }

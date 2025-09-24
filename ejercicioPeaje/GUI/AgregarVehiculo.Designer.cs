@@ -33,10 +33,10 @@
             this.label3 = new System.Windows.Forms.Label();
             this.marcaBOX = new System.Windows.Forms.TextBox();
             this.modeloBOX = new System.Windows.Forms.TextBox();
-            this.tipoVehiculoBOX = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.patenteBOX = new System.Windows.Forms.TextBox();
+            this.tipoVehiculoCmb = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // label1
@@ -83,13 +83,6 @@
             this.modeloBOX.Size = new System.Drawing.Size(156, 20);
             this.modeloBOX.TabIndex = 4;
             // 
-            // tipoVehiculoBOX
-            // 
-            this.tipoVehiculoBOX.Location = new System.Drawing.Point(120, 109);
-            this.tipoVehiculoBOX.Name = "tipoVehiculoBOX";
-            this.tipoVehiculoBOX.Size = new System.Drawing.Size(156, 20);
-            this.tipoVehiculoBOX.TabIndex = 5;
-            // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(120, 151);
@@ -117,15 +110,23 @@
             this.patenteBOX.Size = new System.Drawing.Size(156, 20);
             this.patenteBOX.TabIndex = 8;
             // 
+            // tipoVehiculoCmb
+            // 
+            this.tipoVehiculoCmb.FormattingEnabled = true;
+            this.tipoVehiculoCmb.Location = new System.Drawing.Point(120, 107);
+            this.tipoVehiculoCmb.Name = "tipoVehiculoCmb";
+            this.tipoVehiculoCmb.Size = new System.Drawing.Size(156, 21);
+            this.tipoVehiculoCmb.TabIndex = 9;
+            // 
             // AgregarVehiculo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.tipoVehiculoCmb);
             this.Controls.Add(this.patenteBOX);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.button1);
-            this.Controls.Add(this.tipoVehiculoBOX);
             this.Controls.Add(this.modeloBOX);
             this.Controls.Add(this.marcaBOX);
             this.Controls.Add(this.label3);
@@ -133,6 +134,7 @@
             this.Controls.Add(this.label1);
             this.Name = "AgregarVehiculo";
             this.Text = "agregarVehiculo";
+            this.Load += new System.EventHandler(this.AgregarVehiculo_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -145,9 +147,9 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox marcaBOX;
         private System.Windows.Forms.TextBox modeloBOX;
-        private System.Windows.Forms.TextBox tipoVehiculoBOX;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox patenteBOX;
+        private System.Windows.Forms.ComboBox tipoVehiculoCmb;
     }
 }

@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BE;
 
 namespace GUI
 {
@@ -19,6 +20,7 @@ namespace GUI
 
         BE.Vehiculo vehiculo;
         BLL.Vehiculo bllVehiculo = new BLL.Vehiculo();
+        
         private void button1_Click(object sender, EventArgs e)
         {
             try
@@ -27,7 +29,7 @@ namespace GUI
                 vehiculo.Patente = patenteBOX.Text;
                 vehiculo.Marca = marcaBOX.Text;
                 vehiculo.Modelo = modeloBOX.Text;
-                vehiculo.TipoVehiculo.ID= Convert.ToInt32(tipoVehiculoBOX.Text);
+                vehiculo.TipoVehiculo.ID = Convert.ToInt32(tipoVehiculoCmb.SelectedValue);
                 bllVehiculo.AgregarVehiculo(vehiculo);
                 MessageBox.Show("Se agrego");
             }
@@ -35,6 +37,16 @@ namespace GUI
             {
                 MessageBox.Show(ex.Message);
             }
+        }
+
+        private void AgregarVehiculo_Load(object sender, EventArgs e)
+        {
+            BLL.TipoVehiculo bllTipoVehiculo = new BLL.TipoVehiculo();
+            DataTable tiposVehiculos = new DataTable();
+            tiposVehiculos = bllTipoVehiculo.ObtenerListaTipoVehiculos();
+            tipoVehiculoCmb.DisplayMember = "Nombre";
+            tipoVehiculoCmb.ValueMember = "ID";
+            tipoVehiculoCmb.DataSource = tiposVehiculos;
         }
     }
 }

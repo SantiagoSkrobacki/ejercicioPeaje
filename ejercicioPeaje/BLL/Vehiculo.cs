@@ -10,9 +10,11 @@ namespace BLL
     public class Vehiculo
     {
         MpVehiculo mapper = new MpVehiculo();
+        
 
         public void AgregarVehiculo(BE.Vehiculo ve)
         {
+            
             mapper.Agregar(ve);
         }
 

@@ -32,3 +32,9 @@ C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\GUI\obj\Debug\G
 C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\GUI\obj\Debug\GUI.pdb
 C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\GUI\bin\Debug\DAL.dll
 C:\Users\SantiagoSkrobacki\Desktop\ejercicioPeaje\ejercicioPeaje\GUI\bin\Debug\DAL.pdb
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\GUI\bin\Debug\DAL.dll
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\GUI\bin\Debug\DAL.pdb
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\GUI\obj\Debug\GUI.AgregarVehiculo.resources
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\GUI\obj\Debug\GUI.EditarVehiculo.resources
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\GUI\obj\Debug\GUI.EliminarVechiculo.resources
+E:\Facu\DAS\ejercicioPeaje\ejercicioPeaje\GUI\obj\Debug\GUI.ResumenTelePase.resources

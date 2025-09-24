@@ -88,7 +88,7 @@ namespace DAL
             }
             catch (Exception ex)
             {
-                throw new Exception("Error en base de datos");
+                throw new Exception("Error en base de datos: "+ ex.ToString());
             }
             finally
             {

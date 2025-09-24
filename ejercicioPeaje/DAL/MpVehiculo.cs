@@ -18,8 +18,8 @@ namespace DAL
             parametro[0] = new SqlParameter("@patente", vehiculo.Patente);
             parametro[1] = new SqlParameter("@marca", vehiculo.Marca);
             parametro[2] = new SqlParameter("@modelo", vehiculo.Modelo);
-            parametro[3] = new SqlParameter("@idCategoria", vehiculo.TipoVehiculo.ID);
-            fa = acc.Escribir("AgregarVehiculo",parametro);
+            parametro[3] = new SqlParameter("@idTipoVehiculo", vehiculo.TipoVehiculo.ID);
+            fa = acc.Escribir("AgregarVehiculo", parametro);
             return fa;
         }
         public int Editar(BE.Vehiculo vehiculo)
