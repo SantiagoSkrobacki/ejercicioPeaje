@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,9 +11,9 @@ namespace BLL
     public class TelePase
     {
         MpTelePase mapper = new MpTelePase();
-        public void Agregar(BE.TelePase telePase)
+        public int Agregar(BE.TelePase telePase)
         {
-            mapper.Agregar(telePase);
+           return mapper.Agregar(telePase);
         }
 
         public void Editar(BE.TelePase telePase)
@@ -29,5 +30,15 @@ namespace BLL
         {
            return mapper.ObtenerNuevoId();
         }
-    }
+
+        public DataTable ObtenerTelePases()
+        {
+            return mapper.ObtenerTelePases();
+        }
+
+        public int ObtenerImporte(string patente)
+        {
+            return mapper.ObtenerImporte(patente);
+        }
+    }   
 }

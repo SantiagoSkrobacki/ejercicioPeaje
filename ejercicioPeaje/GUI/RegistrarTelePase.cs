@@ -24,7 +24,9 @@ namespace GUI
         {
             bllVehiculo = new BLL.Vehiculo();
             bllTelepase = new BLL.TelePase();
-            patenteComboBox.DataSource = bllVehiculo.ObtenerListaPatentes(); 
+            patenteComboBox.DataSource = bllVehiculo.ObtenerListaPatentes();
+            patenteComboBox.DisplayMember = "patente";
+            mostrarTelePases();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -35,12 +37,36 @@ namespace GUI
      
         private void button1_Click(object sender, EventArgs e)
         {
+            int fa = 0;
+
             telepase = new BE.TelePase();
             telepase.ID = bllTelepase.ObtenerNuevoId();
-            telepase.Fecha = DateTime.Now;
-            telepase.Hora = DateTime.Now;
+            telepase.Fecha = DateTime.Now.Date;
+            telepase.Hora = DateTime.Now.TimeOfDay;
             telepase.Vehiculo.Patente=patenteComboBox.Text;
+            telepase.Importe = bllTelepase.ObtenerImporte(telepase.Vehiculo.Patente);
+
+            fa = bllTelepase.Agregar(telepase);
             
+            if (fa == 0)
+            {
+                MessageBox.Show("ERROR: no se pudo procesar TelePase");
+            }
+            else
+            {
+               MessageBox.Show("TelePase registrado correctamente");
+            }
+            mostrarTelePases();
+
+
+        }
+
+        private void mostrarTelePases()
+        {
+            dgvTelePases.DataSource = null;
+            dgvTelePases.DataSource = bllTelepase.ObtenerTelePases();
+            dgvTelePases.Columns["hora"].DefaultCellStyle.Format = @"hh\:mm\:ss";
+
         }
     }
 }

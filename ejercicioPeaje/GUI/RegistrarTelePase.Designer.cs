@@ -32,8 +32,8 @@
             this.label2 = new System.Windows.Forms.Label();
             this.patenteComboBox = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.dgvTelePases = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvTelePases)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -76,21 +76,23 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // dataGridView1
+            // dgvTelePases
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(315, 105);
-            this.dataGridView1.MultiSelect = false;
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(473, 333);
-            this.dataGridView1.TabIndex = 4;
+            this.dgvTelePases.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.AllCells;
+            this.dgvTelePases.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.AllCells;
+            this.dgvTelePases.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvTelePases.Location = new System.Drawing.Point(315, 105);
+            this.dgvTelePases.MultiSelect = false;
+            this.dgvTelePases.Name = "dgvTelePases";
+            this.dgvTelePases.Size = new System.Drawing.Size(473, 333);
+            this.dgvTelePases.TabIndex = 4;
             // 
             // RegistrarTelePase
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.dgvTelePases);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.patenteComboBox);
             this.Controls.Add(this.label2);
@@ -98,7 +100,7 @@
             this.Name = "RegistrarTelePase";
             this.Text = "RegistrarTelePase";
             this.Load += new System.EventHandler(this.registrarTelePase_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvTelePases)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -110,6 +112,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.ComboBox patenteComboBox;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dgvTelePases;
     }
 }

@@ -43,13 +43,11 @@ namespace DAL
             return fa;
         }
 
-        public List<string> ObtenerListaPatentes()
+        public DataTable ObtenerListaPatentes()
         {
             DataTable dt = acc.Leer("ListarPatentes", null);
-            List<string> patentes = dt.AsEnumerable()
-                             .Select(r => r[0].ToString()) 
-                             .ToList();
-            return patentes;
+            
+            return dt;
         }
 
     }

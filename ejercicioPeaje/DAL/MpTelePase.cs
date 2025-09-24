@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BE;
 
 namespace DAL
 {
@@ -39,7 +41,7 @@ namespace DAL
         public int Eliminar(BE.TelePase telepase)
         {
             int fa = 0;
-            SqlParameter[] parametro = new SqlParameter[0];
+            SqlParameter[] parametro = new SqlParameter[1];
             parametro[0] = new SqlParameter("id",telepase.ID);
             fa = acc.Escribir("EliminarTelepase", parametro);
             return fa;
@@ -50,6 +52,19 @@ namespace DAL
             int idTelepase = -1;
             idTelepase = Convert.ToInt32(acc.ObtenerDato("ObtenerNuevoIdTelepase", null));
             return idTelepase;
+        }
+
+        public DataTable ObtenerTelePases()
+        {
+            return acc.Leer("ObtenerTelePases", null);
+        }
+        public int ObtenerImporte(string patente)
+        {
+            SqlParameter[] parametro = new SqlParameter[1];
+            parametro[0] = new SqlParameter("patente", patente);
+            int importe = 0;
+            importe = Convert.ToInt32(acc.ObtenerDato("ObtenerImporteTelePase", parametro));
+            return importe;
         }
     }
 }

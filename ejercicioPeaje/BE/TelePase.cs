@@ -22,8 +22,8 @@ namespace BE
 			set { fecha = value; }
 		}
 
-		private DateTime hora;
-		public DateTime Hora
+		private TimeSpan hora;
+		public TimeSpan Hora
 		{
 			get { return hora; }
 			set { hora = value; }
@@ -44,7 +44,10 @@ namespace BE
 		}
 
 
-
+		public TelePase()
+		{
+			Vehiculo = new Vehiculo(); 
+		}
 
 	}
 }

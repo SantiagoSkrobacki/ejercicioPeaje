@@ -3,56 +3,24 @@
   "WorkspaceRootPath": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CC05FC1-ABCA-42EE-BE15-43D231D3ABF3}|DAL\\DAL.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\dal\\mpvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC05FC1-ABCA-42EE-BE15-43D231D3ABF3}|DAL\\DAL.csproj|solutionrelative:dal\\mpvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B2BB12B-D036-4803-91DD-E2B0014189C2}|BLL\\BLL.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\bll\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B2BB12B-D036-4803-91DD-E2B0014189C2}|BLL\\BLL.csproj|solutionrelative:bll\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\gui\\agregarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|solutionrelative:gui\\agregarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\gui\\editarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|solutionrelative:gui\\editarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\gui\\editarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|solutionrelative:gui\\editarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\gui\\eliminarvechiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|solutionrelative:gui\\eliminarvechiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\gui\\eliminarvechiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|solutionrelative:gui\\eliminarvechiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\gui\\registrartelepase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|solutionrelative:gui\\registrartelepase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{5CC05FC1-ABCA-42EE-BE15-43D231D3ABF3}|DAL\\DAL.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\dal\\mptelepase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC05FC1-ABCA-42EE-BE15-43D231D3ABF3}|DAL\\DAL.csproj|solutionrelative:dal\\mptelepase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\gui\\registrartelepase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|solutionrelative:gui\\registrartelepase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B2BB12B-D036-4803-91DD-E2B0014189C2}|BLL\\BLL.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\bll\\tipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B2BB12B-D036-4803-91DD-E2B0014189C2}|BLL\\BLL.csproj|solutionrelative:bll\\tipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0B2BB12B-D036-4803-91DD-E2B0014189C2}|BLL\\BLL.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\bll\\telepase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B2BB12B-D036-4803-91DD-E2B0014189C2}|BLL\\BLL.csproj|solutionrelative:bll\\telepase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CC05FC1-ABCA-42EE-BE15-43D231D3ABF3}|DAL\\DAL.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\dal\\mptipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC05FC1-ABCA-42EE-BE15-43D231D3ABF3}|DAL\\DAL.csproj|solutionrelative:dal\\mptipovehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\gui\\registrartelepase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|solutionrelative:gui\\registrartelepase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5CC05FC1-ABCA-42EE-BE15-43D231D3ABF3}|DAL\\DAL.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\dal\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CC05FC1-ABCA-42EE-BE15-43D231D3ABF3}|DAL\\DAL.csproj|solutionrelative:dal\\acceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\gui\\agregarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8612E5DE-058E-44CB-9F92-FF84D9436CBF}|GUI\\GUI.csproj|solutionrelative:gui\\agregarvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D8926583-566D-4EFE-88A5-848F8E42D606}|BE\\BE.csproj|e:\\facu\\das\\ejerciciopeaje\\ejerciciopeaje\\be\\telepase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8926583-566D-4EFE-88A5-848F8E42D606}|BE\\BE.csproj|solutionrelative:be\\telepase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,172 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
+              "Title": "TelePase.cs",
+              "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\BLL\\TelePase.cs",
+              "RelativeDocumentMoniker": "BLL\\TelePase.cs",
+              "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\BLL\\TelePase.cs",
+              "RelativeToolTip": "BLL\\TelePase.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:04:23.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TelePase.cs",
+              "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\BE\\TelePase.cs",
+              "RelativeDocumentMoniker": "BE\\TelePase.cs",
+              "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\BE\\TelePase.cs",
+              "RelativeToolTip": "BE\\TelePase.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T21:01:38.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RegistrarTelePase.cs",
               "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\RegistrarTelePase.cs",
               "RelativeDocumentMoniker": "GUI\\RegistrarTelePase.cs",
               "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\RegistrarTelePase.cs",
               "RelativeToolTip": "GUI\\RegistrarTelePase.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCUAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowC4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:55:23.17Z",
+              "WhenOpened": "2025-09-24T20:56:43.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "RegistrarTelePase.cs [Design]",
               "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\RegistrarTelePase.cs",
               "RelativeDocumentMoniker": "GUI\\RegistrarTelePase.cs",
               "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\RegistrarTelePase.cs [Design]",
               "RelativeToolTip": "GUI\\RegistrarTelePase.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:55:22.002Z",
+              "WhenOpened": "2025-09-24T20:56:42.619Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EliminarVechiculo.cs",
-              "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\EliminarVechiculo.cs",
-              "RelativeDocumentMoniker": "GUI\\EliminarVechiculo.cs",
-              "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\EliminarVechiculo.cs",
-              "RelativeToolTip": "GUI\\EliminarVechiculo.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:55:17.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EliminarVechiculo.cs [Design]",
-              "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\EliminarVechiculo.cs",
-              "RelativeDocumentMoniker": "GUI\\EliminarVechiculo.cs",
-              "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\EliminarVechiculo.cs [Design]",
-              "RelativeToolTip": "GUI\\EliminarVechiculo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:55:16.543Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EditarVehiculo.cs",
-              "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\EditarVehiculo.cs",
-              "RelativeDocumentMoniker": "GUI\\EditarVehiculo.cs",
-              "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\EditarVehiculo.cs",
-              "RelativeToolTip": "GUI\\EditarVehiculo.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:55:14.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EditarVehiculo.cs [Design]",
-              "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\EditarVehiculo.cs",
-              "RelativeDocumentMoniker": "GUI\\EditarVehiculo.cs",
-              "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\EditarVehiculo.cs [Design]",
-              "RelativeToolTip": "GUI\\EditarVehiculo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:55:13.145Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Acceso.cs",
-              "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\DAL\\Acceso.cs",
-              "RelativeDocumentMoniker": "DAL\\Acceso.cs",
-              "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\DAL\\Acceso.cs",
-              "RelativeToolTip": "DAL\\Acceso.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAgwCMAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:47:33.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MpTipoVehiculo.cs",
-              "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\DAL\\MpTipoVehiculo.cs",
-              "RelativeDocumentMoniker": "DAL\\MpTipoVehiculo.cs",
-              "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\DAL\\MpTipoVehiculo.cs",
-              "RelativeToolTip": "DAL\\MpTipoVehiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:42:11.345Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MpVehiculo.cs",
-              "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\DAL\\MpVehiculo.cs",
-              "RelativeDocumentMoniker": "DAL\\MpVehiculo.cs",
-              "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\DAL\\MpVehiculo.cs*",
-              "RelativeToolTip": "DAL\\MpVehiculo.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAvAAAAAAAAAA==",
+              "Title": "MpTelePase.cs",
+              "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\DAL\\MpTelePase.cs",
+              "RelativeDocumentMoniker": "DAL\\MpTelePase.cs",
+              "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\DAL\\MpTelePase.cs",
+              "RelativeToolTip": "DAL\\MpTelePase.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowC0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:39:43.475Z",
+              "WhenOpened": "2025-09-24T20:52:36.086Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TipoVehiculo.cs",
-              "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\BLL\\TipoVehiculo.cs",
-              "RelativeDocumentMoniker": "BLL\\TipoVehiculo.cs",
-              "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\BLL\\TipoVehiculo.cs",
-              "RelativeToolTip": "BLL\\TipoVehiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:37:26.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Vehiculo.cs",
-              "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\BLL\\Vehiculo.cs",
-              "RelativeDocumentMoniker": "BLL\\Vehiculo.cs",
-              "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\BLL\\Vehiculo.cs",
-              "RelativeToolTip": "BLL\\Vehiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:37:23.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AgregarVehiculo.cs",
-              "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\AgregarVehiculo.cs",
-              "RelativeDocumentMoniker": "GUI\\AgregarVehiculo.cs",
-              "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\AgregarVehiculo.cs*",
-              "RelativeToolTip": "GUI\\AgregarVehiculo.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:29:43.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AgregarVehiculo.cs [Design]",
-              "DocumentMoniker": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\AgregarVehiculo.cs",
-              "RelativeDocumentMoniker": "GUI\\AgregarVehiculo.cs",
-              "ToolTip": "E:\\Facu\\DAS\\ejercicioPeaje\\ejercicioPeaje\\GUI\\AgregarVehiculo.cs [Design]*",
-              "RelativeToolTip": "GUI\\AgregarVehiculo.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T03:29:42.979Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

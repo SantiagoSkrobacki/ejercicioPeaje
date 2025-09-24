@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -28,7 +29,7 @@ namespace BLL
             mapper.Eliminar(ve);
         }
 
-        public List<string> ObtenerListaPatentes()
+        public DataTable ObtenerListaPatentes()
         {
             return mapper.ObtenerListaPatentes();
             
